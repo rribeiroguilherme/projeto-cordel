@@ -67,15 +67,15 @@ section {
 
 section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.514);
-    background-position: right center;
+    background-size: cover;
+    
 }
 
 section#i1 {
     background-color: rgb(58, 58, 58);
     color: white;
     background: black url(../imagens/background001.jpg) no-repeat fixed;
-    background-size: cover;
-    
+    background-position: right center;
     
 }
 
